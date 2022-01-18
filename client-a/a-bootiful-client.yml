@@ -1,1 +1,7 @@
 message: Hello Motherfucker! Greetings from client A!
+
+random:
+  rest:
+    service:
+      root:
+        uri: http://localhost:9000
