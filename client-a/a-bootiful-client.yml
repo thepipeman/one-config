@@ -1,7 +1,7 @@
-message: Hello Motherfucker! Greetings from client A updated
+message: Hello Motherfucker! Greetings from client A update
 
 external:
   message:
     enabled: true
     root:
-      uri: http://localhost:9000/api
+      uri: http://localhost:9001/api
