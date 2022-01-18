@@ -4,4 +4,4 @@ random:
   rest:
     service:
       root:
-        uri: http://localhost:9000
+        uri: http://localhost:9000/api
