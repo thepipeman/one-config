@@ -4,4 +4,4 @@ external:
   message:
     enabled: false
     root:
-      uri: http://localhost:9001/api
+      uri: http://localhost:9000/api
