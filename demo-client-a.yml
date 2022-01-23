@@ -1,3 +1,3 @@
 demo:
-  message: Hello! Greetings from demo client A - Update 2 
-  root-uri: http://localhost:9002/api
+  message: Hello! Greetings from demo client A - Update 3
+  root-uri: http://localhost:9002/apis
