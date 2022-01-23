@@ -1,0 +1,3 @@
+demo:
+  message: Hello! Greetings from client A!
+  root-uri: http://locahost:9002/api
