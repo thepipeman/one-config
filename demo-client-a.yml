@@ -1,3 +1,4 @@
 demo:
   message: Hello! Greetings from demo client A - Update 3
-  root-uri: http://localhost:9002/apis
+  root-uri: http://localhost:9002/api
+  external-enabled: true
