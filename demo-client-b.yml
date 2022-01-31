@@ -1,5 +1,5 @@
 demo:
-  message: Hello! Greetings from demo client B
-  root-uri: http://external-service-a:9002/api
-    #root-uri: http://localhost:9002/api
+  message: Hello! Greetings from demo client B with Kim and Bartek
+    #root-uri: http://external-service-a:9002/api
+  root-uri: http://localhost:9002/api
   external-enabled: true
